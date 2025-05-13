@@ -1,0 +1,19 @@
+{
+  "name": "api-tarefas",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx nodemon ./src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
