@@ -13,3 +13,5 @@ Thumbs.db
 
 # Ignorar arquivos de lock do npm
 package-lock.json
+
+tarefa-db/
