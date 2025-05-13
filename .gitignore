@@ -1,0 +1,15 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar arquivos de configuração do ambiente
+.env
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos do VSCode
+.vscode/
+
+# Ignorar arquivos de lock do npm
+package-lock.json
